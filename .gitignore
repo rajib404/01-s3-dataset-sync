@@ -4,3 +4,5 @@ __pycache__/
 .venv/
 venv/
 sample_dataset/
+.DS_Store
+
